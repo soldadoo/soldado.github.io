@@ -328,17 +328,17 @@
 {"VC_ANTIGO":      "", "VC_ESPELHADO": "296", "VC_NOVO": "1002", "NOME": "FILMES",                           "LOGO":null},
 {"VC_ANTIGO":      "", "VC_ESPELHADO": "603", "VC_NOVO": "1003", "NOME": "SÉRIES E PROGRAMAS",               "LOGO":null},
 {"VC_ANTIGO":      "", "VC_ESPELHADO": "1261", "VC_NOVO": "1100", "NOME": "TELECINE PLAY",                    "LOGO":null},
-{"VC_ANTIGO":      "", "VC_ESPELHADO": "1292", "VC_NOVO": "1492", "NOME": "FOOD NETWORK",                     "LOGO": "img/food.png"}
-{"VC_ANTIGO":      "", "VC_ESPELHADO": "", "VC_NOVO": "4", "NOME": "NSC TV BLUMENAU",                     "LOGO":null},
-{"VC_ANTIGO":      "", "VC_ESPELHADO": "", "VC_NOVO": "4", "NOME": "NSC TV JOINVILLE",                     "LOGO":null},
-{"VC_ANTIGO":      "", "VC_ESPELHADO": "", "VC_NOVO": "4", "NOME": "TV SANTA CRUZ",                     "LOGO":null},
-{"VC_ANTIGO":      "", "VC_ESPELHADO": "", "VC_NOVO": "5", "NOME": "EPTV CENTRAL",                     "LOGO":null},
-{"VC_ANTIGO":      "", "VC_ESPELHADO": "", "VC_NOVO": "5", "NOME": "TV INTEGRAÇÃO JUIZ DE FORA",                     "LOGO":null},
-{"VC_ANTIGO":      "", "VC_ESPELHADO": "", "VC_NOVO": "10", "NOME": "INTER TV ALTO LITORAL",                     "LOGO":null},
-{"VC_ANTIGO":      "", "VC_ESPELHADO": "", "VC_NOVO": "12", "NOME": "INTER TV SERRA+MAR",                     "LOGO":null},
-{"VC_ANTIGO":      "", "VC_ESPELHADO": "", "VC_NOVO": "12", "NOME": "TV DIÁRIO",                     "LOGO":null},
-{"VC_ANTIGO":      "", "VC_ESPELHADO": "", "VC_NOVO": "12", "NOME": "TV FRONTEIRA",                     "LOGO":null},
-{"VC_ANTIGO":      "", "VC_ESPELHADO": "", "VC_NOVO": "12", "NOME": "TV INTEGRAÇÃO ARAXÁ",                     "LOGO":null},
-{"VC_ANTIGO":      "", "VC_ESPELHADO": "", "VC_NOVO": "12", "NOME": "TV RIO SUL",                     "LOGO":null}
+{"VC_ANTIGO":      "", "VC_ESPELHADO": "1292", "VC_NOVO": "1492", "NOME": "FOOD NETWORK",                     "LOGO": "img/food.png"},
+{"VC_ANTIGO":      "", "VC_ESPELHADO": "", "VC_NOVO": "4", "NOME": "NSC TV BLUMENAU",                    "LOGO":null},
+{"VC_ANTIGO":      "", "VC_ESPELHADO": "", "VC_NOVO": "4", "NOME": "NSC TV JOINVILLE",                    "LOGO":null},
+{"VC_ANTIGO":      "", "VC_ESPELHADO": "", "VC_NOVO": "4", "NOME": "TV SANTA CRUZ",                    "LOGO":null},
+{"VC_ANTIGO":      "", "VC_ESPELHADO": "", "VC_NOVO": "5", "NOME": "EPTV CENTRAL",                    "LOGO":null},
+{"VC_ANTIGO":      "", "VC_ESPELHADO": "", "VC_NOVO": "5", "NOME": "TV INTEGRAÇÃO JUIZ DE FORA",                    "LOGO":null},
+{"VC_ANTIGO":      "", "VC_ESPELHADO": "", "VC_NOVO": "10", "NOME": "INTER TV ALTO LITORAL",                    "LOGO":null},
+{"VC_ANTIGO":      "", "VC_ESPELHADO": "", "VC_NOVO": "12", "NOME": "INTER TV SERRA+MAR",                    "LOGO":null},
+{"VC_ANTIGO":      "", "VC_ESPELHADO": "", "VC_NOVO": "12", "NOME": "TV DIÁRIO",                    "LOGO":null},
+{"VC_ANTIGO":      "", "VC_ESPELHADO": "", "VC_NOVO": "12", "NOME": "TV FRONTEIRA",                    "LOGO":null},
+{"VC_ANTIGO":      "", "VC_ESPELHADO": "", "VC_NOVO": "12", "NOME": "TV INTEGRAÇÃO ARAXÁ",                    "LOGO":null},
+{"VC_ANTIGO":      "", "VC_ESPELHADO": "", "VC_NOVO": "12", "NOME": "TV RIO SUL",                    "LOGO":null}
 
 ]
